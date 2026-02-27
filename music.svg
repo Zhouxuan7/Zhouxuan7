@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="100">
+  <style>
+    .bg { fill: #1e1e1e; rx: 12px; }
+    .title { fill: #ffffff; font-family: 'Segoe UI', sans-serif; font-size: 18px; font-weight: bold; }
+    .artist { fill: #b3b3b3; font-family: 'Segoe UI', sans-serif; font-size: 13px; }
+    .time { fill: #b3b3b3; font-family: 'Segoe UI', sans-serif; font-size: 10px; }
+    .progress-bg { fill: #404040; rx: 2px; }
+    /* 进度条动画：10秒循环播放 */
+    .progress-bar { fill: #1db954; rx: 2px; animation: play 10s linear infinite; }
+    /* 黑胶唱片旋转动画：4秒一圈 */
+    .disc { transform-origin: 50px 50px; animation: spin 4s linear infinite; }
+    
+    @keyframes play { 
+      0% { width: 0; } 
+      100% { width: 200px; } 
+    }
+    @keyframes spin { 
+      100% { transform: rotate(360deg); } 
+    }
+  </style>
+  
+  <rect width="340" height="100" class="bg"/>
+  
+  <g class="disc">
+    <circle cx="50" cy="50" r="32" fill="#121212" stroke="#333" stroke-width="2"/>
+    <circle cx="50" cy="50" r="24" fill="none" stroke="#222" stroke-width="1"/>
+    <circle cx="50" cy="50" r="16" fill="none" stroke="#222" stroke-width="1"/>
+    <circle cx="50" cy="50" r="10" fill="#1db954"/>
+    <circle cx="50" cy="50" r="3" fill="#1e1e1e"/>
+  </g>
+  
+  <text x="100" y="42" class="title">100 Ways</text>
+  <text x="100" y="62" class="artist">Jackson Wang</text>
+  
+  <rect x="100" y="76" width="200" height="4" class="progress-bg"/>
+  <rect x="100" y="76" width="0" height="4" class="progress-bar"/>
+  <text x="310" y="80" class="time">3:24</text>
+</svg>
