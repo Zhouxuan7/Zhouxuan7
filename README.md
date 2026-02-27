@@ -17,4 +17,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 📊 个人战斗力面板
-![Li Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhouxuan7&show_icons=true&theme=radical)
+![Li Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhouxuan7&show_icons=true&theme=radical&v=1)
