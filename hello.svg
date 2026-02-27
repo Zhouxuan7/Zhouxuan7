@@ -6,7 +6,7 @@
       font-weight: bold;
       opacity: 0;
       /* 总动画时长 14秒，无限循环 */
-      animation: breathe 20s infinite;
+      animation: breathe 18s infinite;
     }
     
     /* 这里为你配置了7种不同的极客/赛博颜色，并设置了出场顺序 */
