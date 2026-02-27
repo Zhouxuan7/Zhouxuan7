@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="60">
+  <style>
+    .text {
+      font-family: 'Segoe UI', 'Noto Sans', 'Helvetica Neue', sans-serif;
+      font-size: 28px;
+      font-weight: bold;
+      opacity: 0;
+      /* 总动画时长 14秒，无限循环 */
+      animation: breathe 14s infinite;
+    }
+    
+    /* 这里为你配置了7种不同的极客/赛博颜色，并设置了出场顺序 */
+    .t1 { fill: #00BFFF; animation-delay: 0s; }    /* 亮蓝: 你好 */
+    .t2 { fill: #FF0055; animation-delay: 2s; }    /* 霓虹粉: Hello */
+    .t3 { fill: #00FF00; animation-delay: 4s; }    /* 骇客绿: привет */
+    .t4 { fill: #FFD700; animation-delay: 6s; }    /* 赛博黄: Halo */
+    .t5 { fill: #9D00FF; animation-delay: 8s; }    /* 暗紫: γεια */
+    .t6 { fill: #FF8C00; animation-delay: 10s; }   /* 橙色: 안녕하세요 */
+    .t7 { fill: #00FA9A; animation-delay: 12s; }   /* 青色: こんにちは */
+
+    /* 核心呼吸灯算法：渐进、保持、渐出 */
+    @keyframes breathe {
+      0% { opacity: 0; }
+      3% { opacity: 1; }
+      11% { opacity: 1; }
+      14.28% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+  </style>
+  
+  <g text-anchor="middle" dominant-baseline="middle" transform="translate(300, 30)">
+    <text class="text t1">你好</text>
+    <text class="text t2">Hello</text>
+    <text class="text t3">привет</text>
+    <text class="text t4">Halo</text>
+    <text class="text t5">γεια</text>
+    <text class="text t6">안녕하세요</text>
+    <text class="text t7">こんにちは</text>
+  </g>
+</svg>
