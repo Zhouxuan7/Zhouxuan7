@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Li+Hao+👋;Electronic+Information+Engineering;Focus+on+MATLAB+%26+Algorithms;凡人修仙，逆天而行" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi,+I+am+Li+Hao;Electronic+Information+Engineering;Focus+on+MATLAB;A+Record+of+a+Mortals+Journey" alt="Typing SVG" />
 </div>
 
 ### 🛠 技术栈与开发工具
