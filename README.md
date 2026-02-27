@@ -18,7 +18,7 @@
 
 ### 🎧 正在播放
 <div align="left">
-  <a href="https://www.youtube.com/results?search_query=CHANGMO+Beautiful" target="_blank">
+  <a href="https://www.youtube.com/watch?v=ywwU5ka1fBs&list=RDywwU5ka1fBs&start_radio=1" target="_blank">
     <img src="music.svg" alt="Music Player" />
   </a>
 </div>
