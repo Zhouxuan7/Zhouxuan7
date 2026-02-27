@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi,+I+am+Li+Hao;Electronic+Information+Engineering;Focus+on+MATLAB;A+Record+of+a+Mortals+Journey" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=你好;Hello;привет;Halo;γεια;안녕하세요;こんにちは;" alt="Typing SVG" />
 </div>
 
 ### 🛠 技术栈与开发工具
