@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="![Image](https://github.com/user-attachments/assets/705de9a5-36fb-42f0-a2e3-8a5233c50ad7)" width="100%" alt="Header Banner" />
+</div>
+
+<div align="center">
+  <i>“所有命运的馈赠，都已在暗中标好了价格。”</i>
+</div>
 # Hi there, I'm Li Hao 👋
 
 > *"我们是守护者，也是一群时刻对抗着危险和疯狂的可怜虫。"*
