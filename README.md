@@ -6,6 +6,10 @@
   <i>“所有命运的馈赠，都已在暗中标好了价格。”</i>
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Li+Hao+👋;Electronic+Information+Engineering;Focus+on+MATLAB+%26+Algorithms;凡人修仙，逆天而行" alt="Typing SVG" />
+</div>
+
 ### 🛠 技术栈与开发工具
 ![MATLAB](https://img.shields.io/badge/MATLAB-e20000?style=for-the-badge&logo=mathworks&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
