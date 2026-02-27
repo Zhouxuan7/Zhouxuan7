@@ -16,9 +16,9 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 🎧 正在循环
+### 🎧 正在播放
 <div align="left">
-  <a href="https://www.bilibili.com/video/BV1WE411x7dF/" target="_blank">
+  <a href="https://www.youtube.com/results?search_query=CHANGMO+Beautiful" target="_blank">
     <img src="music.svg" alt="Music Player" />
   </a>
 </div>
